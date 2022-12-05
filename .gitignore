@@ -1,0 +1,17 @@
+ref_data/
+ref_data/*
+dev-tools/
+dev-tools/*
+dbgen/answers/
+dbgen/answers/*
+dbgen/check_answers/
+dbgen/check_answers/*
+dbgen/reference/
+dbgen/reference/*
+dbgen/tests/
+dbgen/tests/*
+dbgen/variants/
+dbgen/variants/*
+dbgen/BUGS
+dbgen/HISTORY
+
